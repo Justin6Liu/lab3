@@ -6,5 +6,6 @@ import java.util.List;
 import java.util.NoSuchElementException;
 
 public class LinkedListTests {
-    
+    @Test
+    public void testFor
 }
